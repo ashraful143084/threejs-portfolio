@@ -25,6 +25,7 @@ export default {
       },
       backgroundImage: {
         terminal: "url('/assets/terminal.png')",
+        video1: "url('/assets/bg-2.jpeg')",
       },
     },
   },
